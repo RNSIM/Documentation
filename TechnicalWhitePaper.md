@@ -2,7 +2,7 @@
 
 <div class="titBPS">
 
-### 白皮书
+### RNS技术白皮书
 
 <div class="name">全球随机数应用场景通用公有链项目</div>
 
@@ -54,7 +54,7 @@
 *   [6.第三方应用](#nameLink_6)
     *   [6.1内置SDK](#txtName_6_1)
     *   [6.2深度定制](#txtName_6_2)
-    *   [6.3只能创建](#txtName_6_3)
+    *   [6.3智能创建](#txtName_6_3)
 *   [7.应用场景](#nameLink_7)
     *   [7.1游戏应用](#txtName_7_1)
     *   [7.2博彩、彩票的透明性证明](#txtName_7_2)
